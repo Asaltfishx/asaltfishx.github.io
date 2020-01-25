@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "一个新的开始"
-categories: JavaScript
+categories: 随笔
 tags: 计划 vscode markdown
 author: ASFX
 ---
