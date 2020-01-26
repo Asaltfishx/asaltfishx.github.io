@@ -10,7 +10,8 @@ author: ASFX
 {:toc}
 <center>  <!--开始居中对齐-->
 
-![学习方法总结](https://img.alicdn.com/imgextra/i4/731007353/O1CN01uje8xa24Bir0zFEET_!!731007353.png)
+![](https://img.alicdn.com/imgextra/i4/731007353/O1CN01uje8xa24Bir0zFEET_!!731007353.png)
+
 </center> <!--结束居中对齐-->
 
 
@@ -25,7 +26,8 @@ author: ASFX
 >参考事迹：费曼
 <center> <!--开始居中对齐-->
 
-![学习方法总结](https://img.alicdn.com/imgextra/i3/731007353/O1CN01USjR5k24Bir7Y2ehC_!!731007353.png)
+![](https://img.alicdn.com/imgextra/i3/731007353/O1CN01USjR5k24Bir7Y2ehC_!!731007353.png)
+
 </center> <!--结束居中对齐-->
 
 # 刻意练习
